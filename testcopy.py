@@ -12,7 +12,6 @@ print(B)
 A[0]=5
 print(B)
 print("===")
-
 import copy
 A=[2,14,7]
 print(A)
